@@ -5,7 +5,7 @@ from Concept_List import concept_keywords  # <-- import driver concept list
 # -----------------------------
 # CONFIGURATION
 # -----------------------------
-USER_EMAIL = "mustafadal2004@proton.me"  # SEC requires identification
+USER_EMAIL = "user@proton.me"  # SEC requires identification
 
 # -----------------------------
 # SEC DATA FUNCTIONS
