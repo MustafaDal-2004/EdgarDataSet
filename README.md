@@ -32,3 +32,10 @@ This project allows you to download, organize, and update historical filings for
 
 - This project is intended for research purposes.
 - The dataset reflects SEC filings but may **not be 100% accurate** due to inconsistencies in filings or tag variations.
+- **You are responsible for how you use the data.** The author is not liable for any misuse, financial decisions, or legal consequences stemming from this dataset.
+
+## Legal Disclaimer
+
+- These scripts **access public SEC data**. You must comply with all SEC terms of use.
+- This dataset is for **research and educational purposes only**.
+- By using this software, you agree that the author is **not responsible for any damages, losses, or claims** resulting from your use of the data or scripts.
