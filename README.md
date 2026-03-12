@@ -11,7 +11,7 @@ This project allows you to download, organize, and update historical filings for
 1. Open the `SetBuild.py` script.
 2. Enter your email in the **config section** (used for SEC request headers).
 3. Ensure you have a CSV of tickers named `sp500_yfin.csv`.
-4. Run `SetBuild.py` to download filings for the specified tickers, covering the years 2015–2025.
+4. Run `SetBuild.py` to download filings for the specified tickers, covering the all years.
 
 ## Updating Your Dataset
 
