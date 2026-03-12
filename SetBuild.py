@@ -8,7 +8,7 @@ import shutil
 # -----------------------------
 TICKER_CSV = "sp500_yfin.csv"
 DATA_FOLDER = "DATA"
-USER_EMAIL = "mustafadal2004@proton.me"
+USER_EMAIL = "ENTER YOUR EMAIL HERE"
 HEADERS = {"User-Agent": USER_EMAIL}
 
 OUTPUT_FOLDER = "DATA_YR"
